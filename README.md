@@ -1,24 +1,19 @@
 # vue-intermediario
 
-## Project setup
-```
-npm install
-```
+# Curso de VUEJS na DIO
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Stack usada
+- VueJs.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Estudos 
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [x] Criar um componente.
+- [ ] Controle de estado.
+- [ ] Metodos e propriedades.
+- [ ] Monitoração de estado.
+- [ ] Ciclo de vida dos componentes. 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Anotações
+
