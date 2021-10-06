@@ -14,4 +14,5 @@
 
 
 ### Anotações
+-- Estilizei o button com o spectre.css
 
