@@ -1,5 +1,3 @@
-# vue-intermediario
-
 # Curso de VUEJS na DIO
 
 ## Stack usada
