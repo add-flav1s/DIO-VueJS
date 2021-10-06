@@ -1,5 +1,7 @@
 <template>
-    <button @click="click">Cliquei {{ count }} vezes.</button>
+    <button class="btn btn-lg btn-block" @click="click">
+        Cliquei {{ count }} vezes.
+    </button>
 </template>
 
 <script>
